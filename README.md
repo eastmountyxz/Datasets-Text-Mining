@@ -26,11 +26,13 @@
 **数据示例：**
 
 <div align=center>
-    <img src="https://github.com/eastmountyxz/Datasets-Text-Mining/blob/main/images/images-001.png" width="40%" height="40%" />
+    <img src="https://github.com/eastmountyxz/Datasets-Text-Mining/blob/main/images/images-001.png" width="80%" height="80%" />
 </div>
 
 
 **下载地址：**
+
+- https://github.com/eastmountyxz/Datasets-Text-Mining/tree/main/情感分析
 
 
 **参考链接：**
