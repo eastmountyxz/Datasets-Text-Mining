@@ -11,6 +11,8 @@
 
 ## 新浪微博4类情感 simplifyweibo_4_moods
 
+**数据描述：**
+
 类型     | 描述
 -------- | -----
 数据概览  | 36 万多条，带情感标注 新浪微博，包含 4 种情感，其中喜悦约 20 万条，愤怒、厌恶、低落各约 5 万条
@@ -19,9 +21,14 @@
 原数据集  | 微博情感分析数据集，网上搜集，具体作者、来源不详
 数据描述  | 微博总体数目为361744： 喜悦-199496、愤怒-51714、厌恶-55267、低落-55267
 
+**数据示例：**
 
 
-- 参考：https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/simplifyweibo_4_moods/intro.ipynb
+**下载地址：**
+
+**参考链接：**
+
+- https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/simplifyweibo_4_moods/intro.ipynb
 
 
 
