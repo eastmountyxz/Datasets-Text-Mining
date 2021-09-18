@@ -25,6 +25,9 @@
 
 **数据示例：**
 
+<div align=center>
+  <img src="https://github.com/eastmountyxz/Datasets-Text-Mining/blob/main/images/images-001.png">
+</div>
 
 **下载地址：**
 
