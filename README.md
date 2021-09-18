@@ -26,8 +26,9 @@
 **数据示例：**
 
 <div align=center>
-  <img src="https://github.com/eastmountyxz/Datasets-Text-Mining/blob/main/images/images-001.png">
+    <img src="https://github.com/eastmountyxz/Datasets-Text-Mining/blob/main/images/images-001.png" width="40%" height="40%" />
 </div>
+
 
 **下载地址：**
 
